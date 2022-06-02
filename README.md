@@ -38,7 +38,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
+  - bear1230 -> cladren123 -> europani -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -99,6 +99,9 @@
 - (rave189) - <img src="./md-images/rave189.png" height = "30" width="30">
   - 사용가능 언어: 중 - Java
   - Contact: rave189@naver.com
+- (europani) - <img src="./md-images/europani.png" height = "30" width="30">
+  - 
+
 
 
 
