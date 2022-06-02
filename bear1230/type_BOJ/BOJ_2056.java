@@ -28,6 +28,7 @@ public class Main {
             }
         }
 
+        
         Queue<Integer> q = new LinkedList<Integer>();
         for(int i=1; i<=n; i++){
             if(indegree[i] ==0){
