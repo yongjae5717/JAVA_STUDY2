@@ -100,8 +100,8 @@
   - 사용가능 언어: 중 - Java
   - Contact: rave189@naver.com
 - (europani) - <img src="./md-images/europani.png" height = "30" width="30">
-  - 사용가능 언어 : 
-  - Contact : 
+  - 사용가능 언어 : Java, Python
+  - Contact : europani1212@gmail.com
 
 
 
