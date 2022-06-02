@@ -38,7 +38,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - cano721 -> bear1230 -> cladren123 -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
+  - bear1230 -> cladren123 -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -70,38 +70,29 @@
 
 **[6월 패스권 사용]**
 
-1. 
+1. moyu0306
 2. 
 
 ### 참가자
 
 ---
 
-- (cano721) - <img src="md-images/haebum.png" height = "30" width="30">
-
-  - 사용가능 언어 : 중 - Python, Java / 하 - C++,Kotlin
-  - Contact : cano721@naver.com
-
 - (elwlahd555) - <img src="md-images/elwlahd555.png" height = "30" width="30">
 
   - 사용가능 언어: 중 - java / 하 - Python, C++
   - Contact: elwlahd555@naver.com
-
 - (bear1230) - <img src="md-images/bear1230.png" height = "30" width="30">
 
   - 사용가능 언어: 중 - C++, C# / 하 - Java, Python
   - Contact: beear1230@gmail.com
-
 - (cladren123) - <img src="./md-images/cladren123.png" height = "30" width="30">
 
   - 사용가능 언어: Java, Python
   - Contact: cladren12332@naver.com
-
 - (kwonyl14) - <img src="./md-images/kwonyl14.png" height = "30" width="30">
 
   - 사용가능 언어: Java
   - Contact: sqk86577@gmail.com
-
 - (moyu0306) - <img src="./md-images/moyu0306.png" height = "30" width="30">
   - 사용가능 언어: 중- Java
   - Contact: moyu01@naver.com
