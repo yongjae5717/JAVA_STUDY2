@@ -101,7 +101,7 @@
   - Contact: rave189@naver.com
 - (europani) - <img src="./md-images/europani.png" height = "30" width="30">
   - 사용가능 언어 : 
-  - contact : 
+  - Contact : 
 
 
 
