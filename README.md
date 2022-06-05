@@ -71,8 +71,8 @@
 
 **[6월 패스권 사용]**
 
-1. moyu0306, kwonyl14
-2. 
+1. moyu0306, kwonyl14, elwlahd555 
+2. moyu0306 
 
 **[면접 일정]**
 
