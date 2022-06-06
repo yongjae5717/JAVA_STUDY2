@@ -72,7 +72,7 @@
 **[6월 패스권 사용]**
 
 1. moyu0306, kwonyl14, elwlahd555 
-2. moyu0306 
+2. moyu0306, elwlahd555 
 
 **[면접 일정]**
 
