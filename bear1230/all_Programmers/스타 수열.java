@@ -17,6 +17,7 @@ class Solution {
                     j++;
                 }
             }
+            
             answer = Math.max(answer, star);
         }
 
