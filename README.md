@@ -71,12 +71,12 @@
 
 **[6월 패스권 사용]**
 
-1. moyu0306, kwonyl14, elwlahd555, bear1230 
+1. moyu0306, kwonyl14, elwlahd555, bear1230, rave189, europani 
 2. moyu0306, elwlahd555 
 
 **[면접 일정]**
 
-rave189(~6.8), elwlahd555(~6.14)
+elwlahd555(~6.14)
 
 ### 참가자
 
