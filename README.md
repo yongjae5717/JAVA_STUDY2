@@ -108,7 +108,7 @@ elwlahd555(~6.14)
   - 사용가능 언어 : Java, Python
   - Contact : europani1212@gmail.com
 - (dongha0917) - <img src="./md-images/dongha0917.png" height = "30" width="30">
-  - 사용가능 언어 :
+  - 사용가능 언어 : Java Python html css js ts php mysql c 
   - Contact : 
 
 
