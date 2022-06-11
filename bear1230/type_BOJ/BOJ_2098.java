@@ -27,7 +27,6 @@ public class Main {
 			}
 		}
 		System.out.println(dfs(0, 1));
-
 	}
 
 	public static int dfs(int node, int visit) {
