@@ -54,8 +54,7 @@ public class Main {
         
         if(a == b) return false;
         parent[b] = a;       
-        return true;
-        
+        return true;        
     }
  
     private static int find(int a) {
