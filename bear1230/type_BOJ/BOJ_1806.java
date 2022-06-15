@@ -30,8 +30,7 @@ public class Main {
 			else if(sum < s) {
 				sum += arr[end++];
 			}
-		}
-		
+		}		
 		if(minLen == Integer.MAX_VALUE){
             System.out.println(0);
         }else{
