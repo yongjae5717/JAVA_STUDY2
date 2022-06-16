@@ -24,7 +24,6 @@ public class Main {
                 q.add(x);
             }
         }
-
     }
 
 }
