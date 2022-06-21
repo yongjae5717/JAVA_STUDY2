@@ -76,7 +76,7 @@
 
 **[면접 일정]**
 
-kwonyl14(~6.20)  europani(~6.23)   cladren123(~6.24)
+kwonyl14(~6.22)  europani(~6.23)   cladren123(~6.24)
 
 
 
