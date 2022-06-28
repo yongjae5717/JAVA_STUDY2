@@ -38,7 +38,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> europani -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
+  - bear1230 -> cladren123 -> maemenaver -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -112,6 +112,10 @@
 - (dongha0917) - <img src="./md-images/dongha0917.png" height = "30" width="30">
   - 사용가능 언어 : Java Python html css js ts php mysql c 
   - Contact : donghakim0917@gmail.com
+- (maemenaver) - <img src="./md-images/maemenaver.png" height = "30" width="30">
+  - 사용가능 언어 : 
+  - Contact : 
+
 
 
 
@@ -121,4 +125,4 @@
 
 ---
 
-cano721
+cano721, europani
