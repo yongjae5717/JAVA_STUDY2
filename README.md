@@ -113,8 +113,8 @@
   - 사용가능 언어 : Java Python html css js ts php mysql c 
   - Contact : donghakim0917@gmail.com
 - (maemenaver) - <img src="./md-images/maemenaver.png" height = "30" width="30">
-  - 사용가능 언어 : 
-  - Contact : 
+  - 사용가능 언어 : Javascript, Java, Python, C++
+  - Contact : maemenaver@gmail.com
 
 
 
