@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BOJ_12738_가장_긴_증가하는_부분_수열3" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="maemenaver.BOJ_12738_가장_긴_증가하는_부분_수열3" />
+    <module name="JAVA_STUDY2" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maemenaver" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="maemenaver.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
