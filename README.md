@@ -38,7 +38,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> maemenaver -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
+  - bear1230 -> cladren123 -> maemenaver -> hyeyoungeeee -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
