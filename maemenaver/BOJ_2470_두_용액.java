@@ -4,13 +4,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 import java.util.Collections;
 
-// BufferedWrite와 sort에 대해서는 공부했지만
-// 이분탐색에 대해서는 더 공부할 필요성이 있어보인다. ㅠㅠㅠ
 public class Main {
-  public static int stk(int start, int end) {
-    return 1;
-  }
-  
   public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -25,11 +19,55 @@ public class Main {
 		}
 
     Collections.sort(p);
-    
-    for (int i = 0; i < N; i++) {
-      bw.write(Integer.toString(p.get(i)));
-      bw.write(" ");
+
+    int start = 0;
+    int end = N-1;
+    int prevMin = Integer.MAX_VALUE;
+    int min = Integer.MAX_VALUE;
+
+    int diffStart = 0;
+    int diffEnd = N-1;
+    int diff = Integer.MAX_VALUE;
+
+    while (true) {
+    // bw.write(Integer.toString(p.get(start)));
+    // bw.write(" ");
+    // bw.write(Integer.toString(p.get(end)));
+    // bw.write(" ");
+      
+      int startValue = p.get(start);
+      int endValue = p.get(end);
+
+      min = endValue + startValue;
+
+      if (start == end) {
+        break;
+      }
+      
+      if (Math.abs(min) < Math.abs(diff)) {
+        diffStart = start;
+        diffEnd = end;
+        diff = min;
+      }
+
+      if (min == 0) {
+        break;
+      }
+      
+      if (min < 0) {
+        start++;
+      } else {
+        end--;
+      }
+
+
+
+      prevMin = min;
     }
+    
+    bw.write(Integer.toString(p.get(diffStart)));
+    bw.write(" ");
+    bw.write(Integer.toString(p.get(diffEnd)));
     
 		bw.flush();
 		br.close();
