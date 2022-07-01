@@ -38,7 +38,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> maemenaver -> hyeyoungeeee -> rave189 -> elwlahd555 -> moyu0306 -> kwonyl14
+  - bear1230 -> cladren123 -> maemenaver -> hyeyoungeeee -> greeenly -> rave189 -> elwlahd555 -> moyu0306
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -71,8 +71,8 @@
 
 **[6월 패스권 사용]**
 
-1. moyu0306, kwonyl14, elwlahd555, bear1230, rave189, europani, cladren123, dongha0917
-2. moyu0306, elwlahd555, kwonyl14, rave189, cladren123, bear1230, europani
+1. moyu0306, 
+2. 
 
 **[면접 일정]**
 
@@ -96,16 +96,9 @@
 
   - 사용가능 언어: Java, Python
   - Contact: cladren12332@naver.com
-- (kwonyl14) - <img src="./md-images/kwonyl14.png" height = "30" width="30">
-
-  - 사용가능 언어: Java
-  - Contact: sqk86577@gmail.com
 - (moyu0306) - <img src="./md-images/moyu0306.png" height = "30" width="30">
   - 사용가능 언어: 중- Java
   - Contact: moyu01@naver.com
-- (rave189) - <img src="./md-images/rave189.png" height = "30" width="30">
-  - 사용가능 언어: 중 - Java
-  - Contact: rave189@naver.com
 - (europani) - <img src="./md-images/europani.png" height = "30" width="30">
   - 사용가능 언어 : Java, Python
   - Contact : europani1212@gmail.com
@@ -118,6 +111,10 @@
 - (hyeyoungeeee) - <img src="./md-images/hyeyoungeeee.png" height = "30" width="30">
   - 사용가능 언어 : 
   - Contact 
+- (greeenly) - <img src="./md-images/greeenly.jpg" height = "30" width="30">
+  - 사용가능 언어 : 
+  - Contact : 
+
 
 
 
@@ -129,4 +126,4 @@
 
 ---
 
-cano721, europani
+cano721, europani, kwonyl14, rave189
