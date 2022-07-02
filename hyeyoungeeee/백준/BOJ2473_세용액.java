@@ -6,6 +6,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 // 2022-07-02
+
 public class BOJ2473_세용액 {
     static int N;
     static int[] arr;
