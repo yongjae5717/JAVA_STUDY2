@@ -112,8 +112,8 @@
   - 사용가능 언어 : Java, Python, C, C++
   - Contact : leen_1912@naver.com
 - (greeenly) - <img src="./md-images/greeenly.jpg" height = "30" width="30">
-  - 사용가능 언어 : 
-  - Contact : 
+  - 사용가능 언어 : Java, Kotlin
+  - Contact : greeenly.dev@gmail.com
 
 
 
