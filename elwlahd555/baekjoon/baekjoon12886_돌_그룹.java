@@ -18,7 +18,7 @@ class Stone {
     }
 }
 
-public class Main {
+public class baekjoon12886_돌_그룹 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
