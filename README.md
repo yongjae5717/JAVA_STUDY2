@@ -38,7 +38,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> maemenaver -> hyeyoungeeee -> greeenly -> moyu0306
+  - bear1230 -> cladren123 -> maemenaver -> hyeyoungeeee -> moyu0306
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -99,9 +99,6 @@
 - (moyu0306) - <img src="./md-images/moyu0306.png" height = "30" width="30">
   - 사용가능 언어: 중- Java
   - Contact: moyu01@naver.com
-- (europani) - <img src="./md-images/europani.png" height = "30" width="30">
-  - 사용가능 언어 : Java, Python
-  - Contact : europani1212@gmail.com
 - (dongha0917) - <img src="./md-images/dongha0917.png" height = "30" width="30">
   - 사용가능 언어 : Java Python html css js ts php mysql c 
   - Contact : donghakim0917@gmail.com
@@ -111,11 +108,6 @@
 - (hyeyoungeeee) - <img src="./md-images/hyeyoungeeee.png" height = "30" width="30">
   - 사용가능 언어 : Java, Python, C, C++
   - Contact : leen_1912@naver.com
-- (greeenly) - <img src="./md-images/greeenly.jpg" height = "30" width="30">
-  - 사용가능 언어 : Java, Kotlin
-  - Contact : greeenly.dev@gmail.com
-
-
 
 
 
