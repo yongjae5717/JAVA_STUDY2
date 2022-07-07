@@ -114,8 +114,8 @@
   - 사용가능 언어 : 중 - Java, C, Python / 하 - Kotlin, C++
   - Contact : happylhy0630@naver.com
 - (babybeb) - <img src="./md-images/babybeb.jpg" height = "30" width="30">
-  - 사용가능 언어 : 
-  - Contact : 
+  - 사용가능 언어 : Java
+  - Contact : dasomchoi52@gmail.com
 - (JeongHwan5498) - <img src="./md-images/JeongHwan5498.png" height = "30" width="30">
   - 사용가능 언어 : 
   - Contact : 
