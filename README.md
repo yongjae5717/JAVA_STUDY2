@@ -38,7 +38,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> maemenaver -> hyeyoungeeee -> moyu0306
+  - bear1230 -> cladren123 -> HoYoon-Lee -> maemenaver -> hyeyoungeeee -> moyu0306
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -108,6 +108,10 @@
 - (hyeyoungeeee) - <img src="./md-images/hyeyoungeeee.png" height = "30" width="30">
   - 사용가능 언어 : Java, Python, C, C++
   - Contact : leen_1912@naver.com
+- (HoYoon-Lee) - <img src="./md-images/HoYoon-Lee.png" height = "30" width="30">
+  - 사용가능 언어 : 
+  - Contact : 
+
 
 
 
