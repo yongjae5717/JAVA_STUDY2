@@ -2,6 +2,8 @@
 
 ## 규칙
 
+- 날짜별 문제는 전체유형 문제풀이여부.md 파일에서 확인가능
+
 - 각자 문제 풀고 자기 이름의 폴더에 풀이 올리기
 
 - 문제풀이여부 - 해당 과제 문제 에 본인 이미지로 푼것 체크하기!
@@ -38,7 +40,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> HoYoon-Lee -> maemenaver -> hyeyoungeeee -> moyu0306
+  - bear1230 -> cladren123 -> HoYoon-Lee -> babybeb -> JeongHwan5498 -> maemenaver -> hyeyoungeeee -> moyu0306
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -71,8 +73,8 @@
 
 **[7월 패스권 사용]**
 
-1. moyu0306, bear1230, cladren123, greeenly
-2. greeenly, cladren123
+1. moyu0306, bear1230, cladren123, greeenly, hyeyoungeeee 
+2. greeenly, cladren123, moyu0306
 
 **[면접 일정]**
 
@@ -109,8 +111,16 @@
   - 사용가능 언어 : Java, Python, C, C++
   - Contact : leen_1912@naver.com
 - (HoYoon-Lee) - <img src="./md-images/HoYoon-Lee.png" height = "30" width="30">
+  - 사용가능 언어 : 중 - Java, C, Python / 하 - Kotlin, C++
+  - Contact : happylhy0630@naver.com
+- (babybeb) - <img src="./md-images/babybeb.jpg" height = "30" width="30">
+  - 사용가능 언어 : Java
+  - Contact : dasomchoi52@gmail.com
+- (JeongHwan5498) - <img src="./md-images/JeongHwan5498.png" height = "30" width="30">
   - 사용가능 언어 : 
   - Contact : 
+
+
 
 
 
