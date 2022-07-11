@@ -117,8 +117,8 @@
   - 사용가능 언어 : Java
   - Contact : dasomchoi52@gmail.com
 - (JeongHwan5498) - <img src="./md-images/JeongHwan5498.png" height = "30" width="30">
-  - 사용가능 언어 : 
-  - Contact : 
+  - 사용가능 언어 : Java, Python
+  - Contact : hjhj5077@gmail.com
 
 
 
