@@ -68,6 +68,7 @@ public class Main {
 		return end;
 	}
 
+	
 	private static int lowerBound(List<Long> list, long target) {
 		int start = 0;
 		int end = list.size();
