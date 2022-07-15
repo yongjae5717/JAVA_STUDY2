@@ -16,7 +16,7 @@ public class Main {
         while (T-- > 0){
             StringBuilder answer = new StringBuilder();
             int n = Integer.parseInt(br.readLine());
-            List<Integer>[] nodes = new List<>[n + 1];
+            List<Integer>[] nodes = new List[n + 1];
             Map<Integer, Integer> depth = new HashMap<>();
             int[] t = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
             nodes[t[t.length - 1]] = new ArrayList<>();
