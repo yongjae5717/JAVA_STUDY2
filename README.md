@@ -40,7 +40,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> HoYoon-Lee -> babybeb -> JeongHwan5498 -> elwlahd555 -> maemenaver -> hyeyoungeeee -> moyu0306
+  - bear1230 -> cladren123 -> HoYoon-Lee -> babybeb -> JeongHwan5498 -> elwlahd555 -> maemenaver ->  moyu0306
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -138,4 +138,4 @@ JeongHwan5498 (7.19)
 
 ---
 
-cano721, europani, kwonyl14, rave189, elwlahd555
+cano721, europani, kwonyl14, rave189, elwlahd555, hyeyoungeeee
