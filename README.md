@@ -73,8 +73,8 @@
 
 **[7월 패스권 사용]**
 
-1. moyu0306, bear1230, cladren123, greeenly, hyeyoungeeee 
-2. greeenly, cladren123, moyu0306, hyeyoungeeee 
+1. moyu0306, bear1230, cladren123, hyeyoungeeee, elwlahd555 
+2. cladren123, moyu0306, hyeyoungeeee 
 
 **[면접 일정]**
 
