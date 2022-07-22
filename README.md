@@ -73,7 +73,7 @@
 
 **[7월 패스권 사용]**
 
-1. moyu0306, bear1230, cladren123, hyeyoungeeee, elwlahd555 
+1. moyu0306, bear1230, cladren123, hyeyoungeeee, elwlahd555, HoYoon-Lee
 2. cladren123, moyu0306, hyeyoungeeee, elwlahd555 
 
 **[면접 일정]**
@@ -84,7 +84,7 @@ babybeb(~7.21) maemenaver (~7.22)
 
 **[예비군]**
 
-JeongHwan5498 (7.19)
+
 
 
 
