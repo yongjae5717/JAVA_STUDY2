@@ -40,7 +40,7 @@
 
 - 문제출제순서(2일단위 카톡 알림)
 
-  - bear1230 -> cladren123 -> HoYoon-Lee -> babybeb -> JeongHwan5498 -> elwlahd555 -> maemenaver ->  moyu0306
+  - bear1230 -> cladren123 -> HoYoon-Lee -> babybeb -> JeongHwan5498  ->  moyu0306
 - 문제 출제 / 제출 기한
   - 20시 ~ 23시 사이에 출제
   - 문제 제출(문제풀이여부.md에 낼것)
@@ -71,10 +71,10 @@
   - 월 1일에 초기화 됩니다.
   - 면접이 잡혔을 경우 안내문서나 메일을 인증하시면 일주일동안 면접 휴식기간이 있습니다.(문제만 출제)
 
-**[7월 패스권 사용]**
+**[8월 패스권 사용]**
 
-1. moyu0306, bear1230, cladren123, hyeyoungeeee, elwlahd555, HoYoon-Lee, maemenaver
-2. cladren123, moyu0306, hyeyoungeeee, elwlahd555, bear1230,  
+1. 
+2. 
 
 **[면접 일정]**
 
