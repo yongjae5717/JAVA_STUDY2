@@ -31,7 +31,8 @@ public class Main {
                 if(!connections[i][j]) continue;
                 visit[i][j] = true;
                 visit[j][i] = true;
-                int a = ((j - i == 2? i : j) + 1) % 5;
+                int a = (j - i == 2? i : j) + 1;
+                if(a == 6) a = 1;
                 for(int b = 1; b < 6; b++)
                     if(b != i && b != j && b != a && !visit[a][b] && connections[a][b]) conflicts++;
             }
