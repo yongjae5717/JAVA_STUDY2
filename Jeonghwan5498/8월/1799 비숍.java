@@ -5,10 +5,8 @@ public class Main {
 
     static int N;
     static int[][] map, colorMap;
-    static boolean[][] visited;
+    static boolean[][] visited, diagonal;
     static int[] answer;
-    static int[] dx = {-1,1};
-    static int[] dy = {-1,-1};
 
     public static void main(String[] args) throws IOException {
 
@@ -27,6 +25,7 @@ public class Main {
             }
         }
         visited = new boolean[N][N];
+        diagonal = new boolean[2][2*N-1];
         answer = new int[2];
         DFS(0,0, 0);
         DFS(0, 1, 0);
@@ -40,32 +39,15 @@ public class Main {
             int i = k / N;
             int j = k % N;
 
-            if(map[i][j] == 0 || colorMap[i][j] != color || !check(j, i))
+            if(map[i][j] == 0 || colorMap[i][j] != color || diagonal[0][j-i+N-1] || diagonal[1][j+i])
                 continue;
 
-            visited[i][j] = true;
+            diagonal[0][j-i+N-1] = true;
+            diagonal[1][j+i] = true;
             DFS(k+1, color, depth + 1);
-            visited[i][j] = false;
+            diagonal[0][j-i+N-1] = false;
+            diagonal[1][j+i] = false;
         }
         answer[color] = Math.max(answer[color], depth);
     }
-
-    public static boolean check(int x, int y){
-
-        for(int i = 0; i < 2; i++){
-            int nx = x;
-            int ny = y;
-            while(true){
-                if(0 > nx || nx >= N || 0 > ny || ny >= N)
-                    break;
-                if(visited[ny][nx])
-                    return false;
-                nx += dx[i];
-                ny += dy[i];
-
-            }
-        }
-        return true;
-    }
 }
-
