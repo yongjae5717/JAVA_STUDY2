@@ -6,8 +6,6 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 public class Main {
-    private static final int[] leftRight = {1, -1};
-
     private static int N;
     private static int[][] board;
     private static boolean[][] visit;
@@ -21,36 +19,39 @@ public class Main {
         for(int i = 0; i < N; i++)
             board[i] = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 
-        System.out.println(findMaxBishop(0, 0));
+        int result = findMaxBishop(0, 0);
+        result += findMaxBishop(0, 1);
+        System.out.println(result);
 
         br.close();
     }
 
     private static int findMaxBishop(int r, int c){
-        int max = 0;
-        int nextX = r;
-        int nextY = c + 1;
-
-        if(nextY == N){
-            nextX++;
-            nextY = 0;
+        if(c >= N){
+            if(++r == N) return 0;
+            if(N % 2 == 0) c = (c == N? 1 : 0);
+            else c -= N;
         }
+
+        int max = 0;
+        int nextR = r;
+        int nextC = c + 2;
 
         if(isPossible(r, c)){
             visit[r][c] = true;
-            max = findMaxBishop(nextX, nextY) + 1;
+            max = findMaxBishop(nextR, nextC) + 1;
             visit[r][c] = false;
         }
-        max = Math.max(max, findMaxBishop(nextX, nextY));
+        max = Math.max(max, findMaxBishop(nextR, nextC));
         return max;
     }
 
     private static boolean isPossible(int r, int c){
         if(board[r][c] == 0) return false;
 
-        int term = 0;
-        for(int i = r; i >= 0; i--, term++){
-            if((c >= term && visit[i][c - term]) || (c + term < N && visit[i][c + term]))
+        for(int i = r - 1, term = 1; i >= 0; i--, term++){
+            if((c >= term && visit[i][c - term])
+                    || (c + term < N && visit[i][c + term]))
                 return false;
         }
         return true;
