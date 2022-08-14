@@ -23,7 +23,7 @@ public class Main {
         int[] semester = new int[n + 1];
         Subject[] subjects = new Subject[n + 1];
         Queue<Subject> q;
-        String answer = "";
+        StringBuilder answer = new StringBuilder();
 
         for(int i = 0; i <= n; i++)
             subjects[i] = new Subject(i);
@@ -52,7 +52,7 @@ public class Main {
         }
 
         for(int i = 1; i <= n; i++)
-            answer += semester[i] + " ";
+            answer.append(semester[i]).append(" ");
 
         System.out.println(answer);
         br.close();
