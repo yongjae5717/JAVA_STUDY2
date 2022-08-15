@@ -3,23 +3,36 @@ package HoYoon_Lee.bj4386_별자리만들기;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.PriorityQueue;
+import java.util.StringTokenizer;
+import java.util.stream.Collectors;
 
 class Connection implements Comparable<Connection>{
-    int star1;
-    int star2;
+    int to;
     double distance;
 
-    public Connection(int star1, int star2, double distance) {
-        this.star1 = star1;
-        this.star2 = star2;
+    public Connection(int to, double distance) {
+        this.to = to;
         this.distance = distance;
     }
 
     @Override
     public int compareTo(Connection o) {
-        return this.distance <= o.distance? -1 : 1;
+        return this.distance >= o.distance? 1 : -1;
+    }
+}
+
+class Star{
+    int number;
+    double x, y;
+    List<Connection> connections = new ArrayList<>();
+
+    public Star(int number, double x, double y) {
+        this.number = number;
+        this.x = x;
+        this.y = y;
     }
 }
 
@@ -27,26 +40,35 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
+        Star[] stars = new Star[N];
         boolean[] visit = new boolean[N];
-        double[][] stars = new double[N][2];
-        PriorityQueue<Connection> pq = new PriorityQueue<>();
+        PriorityQueue<Connection> connections  = new PriorityQueue<>();
+
         double answer = 0;
 
         for(int i = 0; i < N; i++) {
-            stars[i] = Arrays.stream(br.readLine().split(" ")).mapToDouble(Double::parseDouble).toArray();
-            for(int j = 0; j < i; j++)
-                pq.offer(new Connection(j, i, Math.sqrt(Math.pow(stars[i][0] - stars[j][0], 2) + Math.pow(stars[i][1] - stars[j][1], 2))));
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            stars[i] = new Star(i, Double.parseDouble(st.nextToken()), Double.parseDouble(st.nextToken()));
+            for(int j = 0; j < i; j++){
+                double distance = Math.sqrt(Math.pow(stars[i].x - stars[j].x, 2) + Math.pow(stars[i].y - stars[j].y, 2));
+                stars[i].connections.add(new Connection(j, distance));
+                stars[j].connections.add(new Connection(i, distance));
+            }
+
         }
         br.close();
 
-        while (!pq.isEmpty()){
-            Connection connection = pq.poll();
-            if(visit[connection.star1] && visit[connection.star2]) continue;
+        connections.addAll(stars[0].connections);
+        visit[0] = true;
+
+        while (!connections.isEmpty()){
+            Connection connection = connections.poll();
+            if(visit[connection.to]) continue;
+            visit[connection.to] = true;
             answer += connection.distance;
-            visit[connection.star1] = true;
-            visit[connection.star2] = true;
+            connections.addAll(stars[connection.to].connections.stream().filter(c -> !visit[c.to]).collect(Collectors.toList()));
         }
 
-        System.out.println(String.format("%.2f", answer));
+        System.out.printf("%.2f%n", answer);
     }
 }
